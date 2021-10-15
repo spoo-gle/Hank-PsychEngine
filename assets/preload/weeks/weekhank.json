@@ -1,0 +1,48 @@
+{
+	"storyName": "Somewhere In Nevada...",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Premonition",
+			"hank",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"Reminiscence",
+			"hank",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"Culmination",
+			"hank",
+			[
+				195,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Hank Week"
+}

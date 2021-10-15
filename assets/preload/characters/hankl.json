@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-54,
+				-360
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "HankLeft"
+		},
+		{
+			"offsets": [
+				-123,
+				-383
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "singDown",
+			"loop": false,
+			"name": "HankDown"
+		},
+		{
+			"offsets": [
+				-171,
+				-388
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "HankRight"
+		},
+		{
+			"offsets": [
+				-57,
+				-371
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "HankIdle"
+		},
+		{
+			"offsets": [
+				-85,
+				-318
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "singUP",
+			"loop": false,
+			"name": "HankUp"
+		},
+		{
+			"offsets": [
+				-123,
+				-382
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "HankDown"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Hank",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		0
+	],
+	"camera_position": [
+		-180,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}
